@@ -29,6 +29,8 @@ class Arpit:
         "Data Engineer @ Singapore-based firm",
     ]
     building   = "AI agent products for SMEs across multiple verticals"
+    languages  = ["Python 🐍 (primary)", "TypeScript", "SQL"]
+    cloud      = ["Azure", "Azure AI Foundry", "Databricks"]
     focus      = ["Multi-agent orchestration", "RAG", "LLM fine-tuning & evals", "CRM / business automation"]
     off_screen = "Turf cricket 🏏"
 ```
@@ -43,9 +45,16 @@ class Arpit:
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenRouter-6566F1?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
   <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Cloud · Data Platforms</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=azure&theme=dark" /><br/>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20AI%20Foundry-5C2D91?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
 <p align="center">
@@ -131,7 +140,7 @@ class Arpit:
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Arpit2811&show_icons=true&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=4f46e5&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit2811&layout=compact&hide_border=true&bg_color=0d1117&title_color=06b6d4&text_color=c9d1d9&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit2811&layout=compact&hide_border=true&bg_color=0d1117&title_color=06b6d4&text_color=c9d1d9&langs_count=6&size_weight=0.5&count_weight=0.5&exclude_repo=docs,BharatGen_UI&hide=html,css,scss,javascript,jupyter%20notebook" />
 </p>
 
 <p align="center">
