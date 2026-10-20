@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Arpit2811">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=640&lines=Building+AI+agents+that+run+real+businesses;RAG+%E2%80%A2+LLM+Evaluation+%E2%80%A2+Agentic+Workflows;Ex-Research+Engineer+%40+BharatGen+(IIT+Bombay);Shipping+for+SMEs+across+India+%26+the+UAE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=640&lines=Building+AI+agents+that+run+real+businesses;RAG+%E2%80%A2+LLM+Evaluation+%E2%80%A2+Agentic+Workflows;Ex-Research+Engineer+%40+BharatGen+(IIT+Bombay);Multi-Agent+Systems+%E2%80%A2+Azure+%E2%80%A2+Databricks" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,7 +23,6 @@
 class Arpit:
     role       = "GenAI Engineer · Independent AI Consultant · Product Builder"
     based_in   = "Mumbai, India 🇮🇳"
-    markets    = ["India", "UAE"]
     previously = [
         "Research Engineer @ BharatGen, IIT Bombay — large-scale LLM evaluation",
         "Data Engineer @ Singapore-based firm",
@@ -165,7 +164,7 @@ class Arpit:
 ---
 
 <p align="center">
-  <b>💼 Open to AI consulting & agent-building engagements — India · UAE · Remote</b>
+  <b>💼 Open to AI consulting & agent-building engagements — India · Remote</b>
 </p>
 
 <p align="center">
